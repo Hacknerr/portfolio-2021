@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter, HashRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Interests from "./components/Interests";
 import Footer from "./components/Footer";
@@ -47,7 +47,9 @@ function App() {
           path="/projects"
           element={
             <>
-              <Navbar /> <Projects /> <Footer />
+              <Navbar />
+              <Projects />
+              <Footer />
             </>
           }
         />

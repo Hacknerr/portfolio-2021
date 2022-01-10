@@ -33,7 +33,7 @@ function Projects() {
               </p>
 
               <a
-                href="#"
+                href="/"
                 class="inline-flex p-2 mt-2 mb-0 text-white capitalize transition-colors duration-200 transform bg-pussy-purple rounded-full hover:underline hover:bg-gray-800"
               >
                 <svg
@@ -72,7 +72,7 @@ function Projects() {
               </p>
 
               <a
-                href="#"
+                href="/"
                 class="inline-flex p-2 mt-2 mb-0 text-white capitalize transition-colors duration-200 transform bg-pussy-purple rounded-full hover:underline hover:bg-gray-800"
               >
                 <svg
@@ -113,7 +113,7 @@ function Projects() {
               </p>
 
               <a
-                href="#"
+                href="/"
                 class="inline-flex p-2 mt-2 mb-0 text-white capitalize transition-colors duration-200 transform bg-pussy-purple rounded-full hover:underline hover:bg-gray-800"
               >
                 <svg
@@ -153,7 +153,7 @@ function Projects() {
               </p>
 
               <a
-                href="#"
+                href="/"
                 class="inline-flex p-2 mt-2 mb-0 text-white capitalize transition-colors duration-200 transform bg-pussy-purple rounded-full hover:underline hover:bg-gray-800"
               >
                 <svg
@@ -193,7 +193,7 @@ function Projects() {
               </p>
 
               <a
-                href="#"
+                href="/"
                 class="inline-flex p-2 mt-2 mb-0 text-white capitalize transition-colors duration-200 transform bg-pussy-purple rounded-full hover:underline hover:bg-gray-800"
               >
                 <svg

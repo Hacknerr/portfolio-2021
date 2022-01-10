@@ -27,7 +27,7 @@ function Footer() {
         <div class="flex flex-col items-center justify-between mt-6 md:flex-row">
           <div>
             <a
-              href="#"
+              href="/"
               class="text-lg font-bold text-gray-100 hover:text-gray-400"
             >
               André Gärtner

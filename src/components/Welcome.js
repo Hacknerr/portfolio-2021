@@ -34,7 +34,7 @@ function Welcome() {
           <img
             src="/images/profile.png"
             class="h-max bg-cover"
-            alt="Profile Picture"
+            alt="profile"
           ></img>
           <a href="/about">
             <div class="bg-pussy-purple absolute bottom-0 left-0 w-full p-4 hover:bg-gray-700 hover:cursor-pointer">
