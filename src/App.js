@@ -16,11 +16,11 @@ function App() {
         <Route
           path="/"
           element={
-            <>
+            <div class="flex flex-col h-screen justify-between">
               <Navbar />
               <Welcome />
               <Footer />
-            </>
+            </div>
           }
         />
         <Route

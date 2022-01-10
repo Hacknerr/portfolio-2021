@@ -8,8 +8,7 @@ function About() {
               <h2 class="text-3xl font-bold text-gray-800">About</h2>
 
               <p class="mt-4 text-gray-500 dark:text-gray-400 lg:max-w-md">
-                My name is André and im currently studying computer engineer at{" "}
-                {""}
+                My name is André and im currently studying computer engineering{" "}
                 <a
                   class="font-bold text-pussy-purple"
                   href="https://www.ntnu.no/"
