@@ -1,8 +1,7 @@
 import React from "react";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter, HashRouter, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Interests from "./components/Interests";
-import BlogPost from "./components/BlogPost";
 import Footer from "./components/Footer";
 import About from "./components/About";
 import Contact from "./components/Contact";
