@@ -1,3 +1,5 @@
+import profilepic from "../images/profile.png";
+
 const alpineTemplate = `
 <button type="button" class="text-gray-500 hover:text-gray-600 focus:outline-none focus:text-gray-600 aria-label="toggle menu" x-on:click=" isOpen = !isOpen">
     <svg viewBox="0 0 24 24" class="w-6 h-6 fill-current">
@@ -34,7 +36,7 @@ function Navbar() {
         <div class="flex justify-between items-center">
           <div class="flex items-center">
             <img
-              src="/images/profile.png"
+              src={profilepic}
               class="h-8 shadow rounded-full"
               alt="avatar"
             />

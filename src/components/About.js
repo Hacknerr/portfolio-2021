@@ -1,3 +1,5 @@
+import profilepic from "../images/profile.png";
+
 function About() {
   return (
     <div>
@@ -85,7 +87,7 @@ function About() {
                 <div class="max-w-lg">
                   <img
                     class="object-cover object-center w-full h-64 rounded-full shadow-md"
-                    src="/images/profile.png"
+                    src={profilepic}
                     alt=""
                   />
                 </div>

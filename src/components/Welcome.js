@@ -1,4 +1,5 @@
 import React from "react";
+import profilepic from "../images/profile.png";
 
 function Welcome() {
   return (
@@ -31,11 +32,7 @@ function Welcome() {
         </div>
 
         <div class="md:w-1/2 relative rounded-lg overflow-hidden lg:rounded-none flex flex-col items-center mx-auto mb-10 md:mb-0 lg:my-0 bg-white">
-          <img
-            src="/images/profile.png"
-            class="h-max bg-cover"
-            alt="profile"
-          ></img>
+          <img src={profilepic} class="h-max bg-cover" alt="profile"></img>
           <a href="/about">
             <div class="bg-pussy-purple absolute bottom-0 left-0 w-full p-4 hover:bg-gray-700 hover:cursor-pointer">
               <span class="text-white capitalize">About Me</span>
